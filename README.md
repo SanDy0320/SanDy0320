@@ -1,21 +1,23 @@
 # Hi there! 👋
 
-I'm [Your Name], a BCA student with a passion for coding and technology. Currently exploring the world of software development and eager to contribute to exciting projects.
+I'm [Sandeep kumar], a BCA student with a passion for coding and technology. Currently exploring the world of software development and eager to contribute to exciting projects.
 
 ## 🚀 Skills & Technologies
-- **Languages:** [List your programming languages, e.g., Python, Java, C++]
+- **Languages:** [C]
 - **Web Development:** [HTML, CSS, JavaScript]
-- **Tools & Frameworks:** [e.g., React, Node.js, Git]
-- **Database Management:** [e.g., MySQL, MongoDB]
+- **Database Management:** [MySQL]
+- **Analytical tools:**[Power BI]
 
 ## 🌱 Currently Learning
-- [Mention any new technologies or skills you're learning]
+- [Python, C++]
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-4205ab318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Instagram](https://www.instagram.com/sandeep.mahto2003?igsh=ajdmZDhubDRqcG92)
+- [E-mail](sandeep.mahto2003@hmail.com)
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs)
+## 🎓 Certifications
+- **SEBI investors**: NISM- 2024
+- 
 
 ## 💬 Feel free to reach out for collaboration or just to chat about tech!
