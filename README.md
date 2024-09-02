@@ -12,8 +12,8 @@ I'm [Your Name], a BCA student with a passion for coding and technology. Current
 - [Mention any new technologies or skills you're learning]
 
 ## 🔗 Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url) (Optional)
+- [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-4205ab318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Instagram](https://www.instagram.com/sandeep.mahto2003?igsh=ajdmZDhubDRqcG92) (Optional)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs)
